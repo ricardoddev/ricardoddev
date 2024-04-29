@@ -1,8 +1,8 @@
-### Olá, sou Ricardo, estudante de Análise e Desenvolvimento de Sistemas, e aqui você pode encontrar meus repositórios  com alguins projetos e exercícios. Aproveite!
+### Olá, sou Ricardo, desenvolvedor fullstack, e aqui você pode encontrar meus repositórios  com alguins projetos e exercícios. Aproveite!
 
 ## 
 
-- 🌱 Atualmente, estou aprendendo React.JS
+- 🌱 JavaScript na veia: React e Node
 - 🤔 Estou em busca de trabalhar na área da tecnologia
 - 📫 Quer falar comigo? Pode me contatar pelo email ricardodelgadofilhodev@gmail.com
 
