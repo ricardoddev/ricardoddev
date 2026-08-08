@@ -1,10 +1,10 @@
-### Olá, eu sou o Ricardo
+### Hi, I'm Ricardo
 
 ## 
 
-Engenheiro de software com experiência em e-commerce, performance web e integrações entre plataformas. Atuo principalmente no ecossistema Shopify e em aplicações com React, Next.js e Node.js — sempre com foco em impacto mensurável no negócio.
+Software engineer with experience in e-commerce, web performance, and platform integrations. I work mainly within the Shopify ecosystem and with React, Next.js, and Node.js applications — always focused on measurable business impact.
 
-Atualmente sou Desenvolvedor Pleno na Frenet, trabalhando com Shopify e .NET.
+Currently a Mid-level Developer at Frenet, working with Shopify and .NET.
 
 ##
 
