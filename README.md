@@ -1,16 +1,11 @@
-### Olá, sou Ricardo, desenvolvedor fullstack, e aqui você pode encontrar meus repositórios  com alguins projetos e exercícios. Aproveite!
+### Olá, eu sou o Ricardo
 
 ## 
 
-- 🌱 JavaScript na veia: React e Node
-- 🤔 Estou em busca de trabalhar na área da tecnologia
-- 📫 Quer falar comigo? Pode me contatar pelo email ricardodelgadofilhodev@gmail.com
+Engenheiro de software com experiência em e-commerce, performance web e integrações entre plataformas. Atuo principalmente no ecossistema Shopify e em aplicações com React, Next.js e Node.js — sempre com foco em impacto mensurável no negócio.
+
+Atualmente sou Desenvolvedor Pleno na Frenet, trabalhando com Shopify e .NET.
 
 ##
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=ricardoddev&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoddev&theme=tokyonight" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoddev/)
